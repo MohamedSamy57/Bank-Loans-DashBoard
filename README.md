@@ -1,4 +1,4 @@
-# Bank Loans Dashboard
+# 🏧📊Bank Loans Dashboard
 
 An interactive **Power BI Dashboard** designed to analyze and visualize bank loan data, providing valuable insights into loan applications, borrower demographics, and financial trends.
 
